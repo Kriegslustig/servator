@@ -1,0 +1,11 @@
+{
+  "name": "servator",
+  "description": "A FOSS Monitoring Tool for this Decade",
+  "dependencies": {
+    "gulp": "latest"
+  },
+  "scripts": {
+    "watch": "./node_modules/gulp/bin/gulp.js"
+  }
+}
+
