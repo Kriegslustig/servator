@@ -2,3 +2,7 @@
 name = "servator"
 version = "0.1.0"
 authors = ["Kriegslustig <github@ls7.ch>"]
+
+[dependencies]
+cassandra = "0.4.2"
+
